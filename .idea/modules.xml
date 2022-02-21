@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/primerRepo.iml" filepath="$PROJECT_DIR$/primerRepo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrimerRepo.iml" filepath="$PROJECT_DIR$/PrimerRepo.iml" />
     </modules>
   </component>
 </project>
